@@ -1,0 +1,23 @@
+EllesmereUICooldownManager/EUI_CooldownManager_Options.lua
+  s_48546c6c86ccea::t_b328507249c7b1 11356-11372,12002-12029,18801-18809,18813-18816
+EllesmereUICooldownManager/EllesmereUICdmHooks.lua
+  s_48546c6c86ccea::t_f8866d187f2e2a 34-35,2769-2779,2874,3406-3409,3673-3684,4051-4058,4203-4207,4334-4339,5622-5623,5629-5634
+EllesmereUICooldownManager/EllesmereUICooldownManager.lua
+  s_48546c6c86ccea::t_6cc9b37285328c 516,536,5386-5400
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "f100bfec387c4d313bb4e5d2f9aaf6ddfecdf998",
+  "prompts": {},
+  "sessions": {
+    "s_48546c6c86ccea": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f98c7-a1cc-7f01-970f-b1c37affd2dd",
+        "model": "unknown"
+      },
+      "human_author": "SN Fernandes <37552869+SNFernandes24@users.noreply.github.com>"
+    }
+  }
+}
