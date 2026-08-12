@@ -1,0 +1,23 @@
+EllesmereUILocales/_keys.txt
+  s_a4221db317e53d::t_0cda5589feb640 3,386,571-572
+EllesmereUIOptions/EUI_ResourceBars_Options.lua
+  s_a4221db317e53d::t_dc7a7e0375fad1 6952,6960-6987
+EllesmereUIResourceBars/EllesmereUIResourceBars.lua
+  s_a4221db317e53d::t_f8933d46f1d18b 1225-1227,4806-4810,4846-4847,4859-4868,4943,4945-4948,4951-4965,4967-5001,5004,5007-5009
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "698ae69bc1fce3a8c30cc87ffeb8db3aedc41b91",
+  "prompts": {},
+  "sessions": {
+    "s_a4221db317e53d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff5ef-1915-7611-bd94-616570b6c531",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "SN Fernandes <fernandes2495@hotmail.co.uk>"
+    }
+  }
+}
